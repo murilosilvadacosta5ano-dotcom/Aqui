@@ -78,6 +78,6 @@
     "@napi-rs/canvas": "^0.1.0"
   },
   "devDependencies": {
-    "node": "^18.12.0"
+    "node": "^24.16.0"
   }
 }
