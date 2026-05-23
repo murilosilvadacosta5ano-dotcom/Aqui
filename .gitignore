@@ -107,3 +107,7 @@ src/config/*
 
 # mainly for package-lock.json and pnpm-lock.yml 
 *-lock.* 
+node_modules/
+*.zip
+*.tar.gz
+.env
